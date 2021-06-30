@@ -11,7 +11,7 @@ I am a Junior Python programmer (with background experience of programming in ot
 C/C++, Python, SQL, Unix.
 
 ### Current work
-Bitbay.net - cryptocurrency exchange (bitbay.net)  
+[Bitbay.net](http://bitbay.net/) - cryptocurrency exchange 
 Junior Python Developer (remote)
 
 ### Code samples
