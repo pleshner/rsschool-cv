@@ -1,7 +1,7 @@
 ﻿## Igor Pleshner
 
 ### Contacts
-- __Email__: igor(собака)@parasite.ru
+- __Email__: igor(собака)parasite.ru
 - __Telegram__: blogerator
 
 ### Summary
@@ -11,8 +11,8 @@ I am a Junior Python programmer (with background experience of programming in ot
 C/C++, Python, SQL, Unix.
 
 ### Current work
-[Bitbay.net](http://bitbay.net/) - cryptocurrency exchange  
-Junior Python Developer (remote)
+- [Bitbay.net](http://bitbay.net/) - cryptocurrency exchange  
+- Junior Python Developer (remote)
 
 ### Code samples
 ```python
